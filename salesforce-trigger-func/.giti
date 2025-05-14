@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+env/
+ENV/
+*.egg-info/
+
+# Azure Functions artifacts
+.local.settings.json
+*.user
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
